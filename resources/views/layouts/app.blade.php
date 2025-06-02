@@ -115,7 +115,7 @@
         }
 
         .section-lightblue {
-            background-color: #e6f4ff;
+            background-color:rgb(217, 239, 255);
             padding: 5px 30px;
             box-shadow: -5px 0 10px rgba(0, 0, 0, 0.3), 5px 0 10px rgba(0, 0, 0, 0.3);
         }

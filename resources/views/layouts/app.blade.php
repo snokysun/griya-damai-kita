@@ -51,9 +51,12 @@
             font-weight: bold;
         }
 
+        .nav-button {
+            margin-left: auto; /* This pushes it to the right */
+        }
+
         .nav-button a {
             padding: 10px 50px;
-            margin-left :auto;
             border: 2px solid #0a2a63;
             color: #0a2a63;
             border-radius: 999px;
@@ -144,14 +147,17 @@
                 <a href="#office">Office</a>
             </div>
         </div>
+        <!-- Moved nav-button outside of nav-left -->
         <div class="nav-button">
             <a href="#contact">HUBUNGI KAMI</a>
         </div>
-        <div class="whatsapp-widget">
-            <a href="https://wa.me/6281398697123" class="whatsapp-float" target="_blank" title="Hubungi Kami via WhatsApp">
-            <img src="{{ asset('images/whatsapp-icon.png') }}" alt="WhatsApp" />
-            </a>
-        </div>
+    </div>
+
+    <!-- WhatsApp widget moved outside of nav -->
+    <div class="whatsapp-widget">
+        <a href="https://wa.me/6281398697123" class="whatsapp-float" target="_blank" title="Hubungi Kami via WhatsApp">
+        <img src="{{ asset('images/whatsapp-icon.png') }}" alt="WhatsApp" />
+        </a>
     </div>
 
     <div class="container">

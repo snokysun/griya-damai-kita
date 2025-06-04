@@ -2,7 +2,7 @@
 
 @section('content')
     <section class="section-white" id="home">
-        <h1 class="page-title">RENTAL MOBIL HIACE DAN ELF, SEWA MINIBUS ISUZU ELF DAN TOYOTA HIACE EKSEKUTIF 15 SEATS dan ELF 19 SEATS DI JAKARTA</h1>
+        <h1 class="page-title">RENTAL MOBIL HIACE COMMUTER DAN PREMIO, SEWA TOYOTA HIACE PREMIO 9 SEATS & COMMUTER 15 SEATS DI JAKARTA</h1>
         <p>PT. Griya Damai Kita <a href="tel:081398697123">(+6281398697123)</a> - Jasa sewa Toyota HIACE COMMUTER 15 seats dan PREMIO 9 seats eksekutif di Jakarta. PT. Griya Damai Kita memiliki ijin resmi sebagai penyelenggara angkutan pariwisata dari Kementerian Perhubungan RI.</p>
         <p>Melayani tujuan dalam dan luar kota Jakarta dengan sopir berpengalaman dan armada tahun 2018 dan 2023 yang telah dilengkapi dengan ijin resmi sebagai angkutan pariwisata dan tidak terkena aturan ganjil-genap di Jakarta.</p>
         <p>Cocok untuk antar-jemput bandara, perjalanan wisata, perjalanan bisnis, ziarah, acara dan rekreasi keluarga.</p>

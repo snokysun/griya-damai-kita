@@ -52,7 +52,7 @@
         }
 
         .nav-button a {
-            padding: 10px 25px;
+            padding: 10px 50px;
             border: 2px solid #0a2a63;
             color: #0a2a63;
             border-radius: 999px;

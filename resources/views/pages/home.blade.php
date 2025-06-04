@@ -38,6 +38,6 @@
         <p>Apartemen Taman Rasuna  Tower 14 Lantai 4 G01 R(01)</p>
         <p>Jl. HR Rasuna Said – Kuningan</p>
         <p>Jakarta Selatan</p>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.3578092012613!2d106.8337934747505!3d-6.216455693771502!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f3f70be6e141%3A0xad1e96a412be8a2e!2sRental%20Car%20Rental%20Minibus%20Isuzu%20ELF%20in%20Jakarta!5e0!3m2!1sen!2sid!4v1748585230515!5m2!1sen!2sid" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.3578092012613!2d106.8337934747505!3d-6.216455693771502!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f3f70be6e141%3A0xad1e96a412be8a2e!2sRental%20Car%20Rental%20Minibus%20Isuzu%20ELF%20in%20Jakarta!5e0!3m2!1sen!2sid!4v1748585230515!5m2!1sen!2sid" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </section>
 @endsection

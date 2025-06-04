@@ -9,12 +9,4 @@ class PageController extends Controller
     public function home() {
         return view('pages.home');
     }
-
-    public function caraPemesanan() {
-        return view('pages.cara_pemesanan');
-    }
-
-    public function contact() {
-        return view('pages.contact');
-    }
 }

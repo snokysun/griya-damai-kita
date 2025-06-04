@@ -37,7 +37,7 @@
         .nav-left img {
             height: 60px;
             width: auto;
-            padding: 0 150px;
+            padding: 0 20px;
         }
 
         .nav-menu {

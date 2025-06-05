@@ -7,7 +7,6 @@
         body {
             font-family: "Times New Roman";
             font-size: 18px;
-            background: url('{{ asset('images/background.jpg') }}') no-repeat center center fixed;
             background-size: cover;
             margin: 0;
             padding: 0;

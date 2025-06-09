@@ -289,6 +289,7 @@
                 <a href="#cara-pemesanan" aria-label="Cara Pemesanan Rental Mobil">Cara Pemesanan</a>
                 <a href="#contact" aria-label="Kontak Griya Damai Kita">Kontak</a>
                 <a href="#office" aria-label="Lokasi Office Kami">Office</a>
+                <a href="#galery" aria-label="Galeri">Galery</a>
             </div>
         </div>
         <div class="nav-button">

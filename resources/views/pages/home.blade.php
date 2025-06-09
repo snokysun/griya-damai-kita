@@ -39,5 +39,23 @@
         <p>Jl. HR Rasuna Said – Kuningan</p>
         <p>Jakarta Selatan</p>
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.3578092012613!2d106.8337934747505!3d-6.216455693771502!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f3f70be6e141%3A0xad1e96a412be8a2e!2sRental%20Car%20Rental%20Minibus%20Isuzu%20ELF%20in%20Jakarta!5e0!3m2!1sen!2sid!4v1748585230515!5m2!1sen!2sid" width="100%" height="800px" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</section>
+    </section>
+
+    <section class="section-white" id="galery">
+        <h1 class="header">Galeri</h1>
+        <img src="{{ asset('images/hiace_1.jpg') }}" alt="hiace 1">
+        <img src="{{ asset('images/hiace_2.jpg') }}" alt="hiace 2">
+        <img src="{{ asset('images/hiace_3.jpg') }}" alt="hiace 3">
+        <img src="{{ asset('images/hiace_4.jpg') }}" alt="hiace 4">
+        <img src="{{ asset('images/hiace_5.jpg') }}" alt="hiace 5">
+        <img src="{{ asset('images/hiace_6.jpg') }}" alt="hiace 6">
+        <img src="{{ asset('images/hiace_7.jpg') }}" alt="hiace 7">
+        <img src="{{ asset('images/hiace_8.jpg') }}" alt="hiace 8">
+        <img src="{{ asset('images/hiace_9.jpg') }}" alt="hiace 9">
+        <img src="{{ asset('images/hiace_10.jpg') }}" alt="hiace 10">
+        <img src="{{ asset('images/hiace_11.jpg') }}" alt="hiace 11">
+        <img src="{{ asset('images/hiace_12.jpg') }}" alt="hiace 12">
+        <img src="{{ asset('images/hiace_13.jpg') }}" alt="hiace 13">
+        <img src="{{ asset('images/hiace_14.jpg') }}" alt="hiace 14">
+    </section>
 @endsection

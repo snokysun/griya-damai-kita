@@ -43,19 +43,19 @@
 
     <section class="section-white" id="galery">
         <h1 class="header">Galeri</h1>
-        <img src="{{ asset('images/hiace_1.jpg') }}" alt="hiace 1">
-        <img src="{{ asset('images/hiace_2.jpg') }}" alt="hiace 2">
-        <img src="{{ asset('images/hiace_3.jpg') }}" alt="hiace 3">
-        <img src="{{ asset('images/hiace_4.jpg') }}" alt="hiace 4">
-        <img src="{{ asset('images/hiace_5.jpg') }}" alt="hiace 5">
-        <img src="{{ asset('images/hiace_6.jpg') }}" alt="hiace 6">
-        <img src="{{ asset('images/hiace_7.jpg') }}" alt="hiace 7">
-        <img src="{{ asset('images/hiace_8.jpg') }}" alt="hiace 8">
-        <img src="{{ asset('images/hiace_9.jpg') }}" alt="hiace 9">
-        <img src="{{ asset('images/hiace_10.jpg') }}" alt="hiace 10">
-        <img src="{{ asset('images/hiace_11.jpg') }}" alt="hiace 11">
-        <img src="{{ asset('images/hiace_12.jpg') }}" alt="hiace 12">
-        <img src="{{ asset('images/hiace_13.jpg') }}" alt="hiace 13">
-        <img src="{{ asset('images/hiace_14.jpg') }}" alt="hiace 14">
+        <img src="{{ asset('images/hiace_1.jpg') }}" alt="hiace 1" style="width:100%;max-width:800px;">
+        <img src="{{ asset('images/hiace_2.jpg') }}" alt="hiace 2" style="width:100%;max-width:800px;">
+        <img src="{{ asset('images/hiace_3.jpg') }}" alt="hiace 3" style="width:100%;max-width:800px;">
+        <img src="{{ asset('images/hiace_4.jpg') }}" alt="hiace 4" style="width:100%;max-width:800px;">
+        <img src="{{ asset('images/hiace_5.jpg') }}" alt="hiace 5" style="width:100%;max-width:800px;">
+        <img src="{{ asset('images/hiace_6.jpg') }}" alt="hiace 6" style="width:100%;max-width:800px;">
+        <img src="{{ asset('images/hiace_7.jpg') }}" alt="hiace 7" style="width:100%;max-width:800px;">
+        <img src="{{ asset('images/hiace_8.jpg') }}" alt="hiace 8" style="width:100%;max-width:800px;">
+        <img src="{{ asset('images/hiace_9.jpg') }}" alt="hiace 9" style="width:100%;max-width:800px;">
+        <img src="{{ asset('images/hiace_10.jpg') }}" alt="hiace 10" style="width:100%;max-width:800px;">
+        <img src="{{ asset('images/hiace_11.jpg') }}" alt="hiace 11" style="width:100%;max-width:800px;">
+        <img src="{{ asset('images/hiace_12.jpg') }}" alt="hiace 12" style="width:100%;max-width:800px;">
+        <img src="{{ asset('images/hiace_13.jpg') }}" alt="hiace 13" style="width:100%;max-width:800px;">
+        <img src="{{ asset('images/hiace_14.jpg') }}" alt="hiace 14" style="width:100%;max-width:800px;">
     </section>
 @endsection

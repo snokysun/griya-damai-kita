@@ -319,13 +319,14 @@
         <p>Layanan rental mobil terbaik di Jakarta dengan harga kompetitif</p>
     </footer>
 
-    <!-- Google Analytics (replace with your tracking ID) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-PK0SXP8M3X"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
-        gtag('config', 'GA_MEASUREMENT_ID');
+
+        gtag('config', 'G-PK0SXP8M3X');
     </script>
 </body>
 </html>

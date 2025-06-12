@@ -11,9 +11,9 @@
 @extends('layouts.app')
 
 @section('content')
-    <section class="py-5 text-center">
+    <section id="home" class="py-5 text-center">
         <div class="container">
-            <h1>{{ $home->title }}</h1>
+            <h1 class="page-title">{{ $home->title }}</h1>
             <p>{{ $home->content }}</p>
 
             @if ($home->images)
@@ -28,7 +28,7 @@
         </div>
     </section>
 
-    <section class="py-5 bg-light">
+    <section id="cara-pemesanan" class="py-5 bg-light">
         <div class="container">
             <h2>{{ $caraPemesanan->title }}</h2>
             <p>{!! nl2br(e($caraPemesanan->content)) !!}</p>
@@ -41,21 +41,21 @@
         </div>
     </section>
 
-    <section class="py-5">
+    <section id="contact" class="py-5">
         <div class="container">
             <h2>{{ $contact->title }}</h2>
             <p>{{ $contact->content }}</p>
         </div>
     </section>
 
-    <section class="py-5 bg-light">
+    <section id="office" class="py-5 bg-light">
         <div class="container">
             <h2>{{ $office->title }}</h2>
             <p>{{ $office->content }}</p>
         </div>
     </section>
 
-    <section class="py-5">
+    <section id="galery" class="py-5">
         <div class="container">
             <h2>{{ $galery->title }}</h2>
             <p>{{ $galery->content }}</p>

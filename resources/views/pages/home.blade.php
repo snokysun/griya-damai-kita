@@ -62,7 +62,7 @@
 
             @if ($galery->images)
                 <div class="row">
-                    @foreach (json_decode($galery->images, true) as $image)
+                    @foreach ($home->images as $image)
                         <div class="col-md-4 mb-3">
                             <img src="{{ asset($image) }}" class="img-fluid" alt="Gallery Image">
                         </div>

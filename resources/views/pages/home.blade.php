@@ -18,7 +18,7 @@
 
             @if ($home->images)
                 <div class="row">
-                    @foreach (json_decode($home->images, true) as $image)
+                    @foreach ($home->images as $image)
                         <div class="col-md-4">
                             <img src="{{ asset($image) }}" class="img-fluid" alt="Image">
                         </div>
@@ -34,7 +34,7 @@
             <p>{!! nl2br(e($caraPemesanan->content)) !!}</p>
 
             @if ($caraPemesanan->images)
-                @foreach (json_decode($caraPemesanan->images, true) as $image)
+                @foreach ($caraPemesanan->images as $image)
                     <img src="{{ asset($image) }}" class="img-fluid" alt="QR">
                 @endforeach
             @endif
@@ -62,7 +62,7 @@
 
             @if ($galery->images)
                 <div class="row">
-                    @foreach ($home->images as $image)
+                    @foreach ($galery->images as $image)
                         <div class="col-md-4 mb-3">
                             <img src="{{ asset($image) }}" class="img-fluid" alt="Gallery Image">
                         </div>

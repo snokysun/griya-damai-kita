@@ -199,19 +199,14 @@
             margin: 20px 0;
         }
 
-        .section-lightblue {
-            background-color: rgb(217, 239, 255);
+        .section {
             padding: 20px 30px;
             box-shadow: -5px 0 10px rgba(0, 0, 0, 0.3), 5px 0 10px rgba(0, 0, 0, 0.3);
             margin: 20px 0;
         }
-
-        .section-white {
-            background-color: #ffffff;
-            padding: 20px 30px;
-            box-shadow: -5px 0 10px rgba(0, 0, 0, 0.3), 5px 0 10px rgba(0, 0, 0, 0.3);
-            margin: 20px 0;
-        }
+        .section-white { background-color: #fff; }
+        
+        .section-lightblue { background-color: rgb(217, 239, 255); }
 
         html {
             scroll-behavior: smooth;
@@ -306,7 +301,6 @@
            title="Hubungi Kami via WhatsApp untuk Rental Mobil"
            aria-label="Chat WhatsApp untuk informasi rental mobil">
             <img src="{{ asset('images/whatsapp-icon.png') }}" 
-                 alt="WhatsApp Icon - Chat langsung untuk rental mobil" 
                  loading="lazy" />
         </a>
     </div>

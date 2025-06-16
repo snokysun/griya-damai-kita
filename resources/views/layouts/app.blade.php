@@ -199,14 +199,19 @@
             margin: 20px 0;
         }
 
-        .section {
+        .section-lightblue {
+            background-color: rgb(217, 239, 255);
             padding: 20px 30px;
             box-shadow: -5px 0 10px rgba(0, 0, 0, 0.3), 5px 0 10px rgba(0, 0, 0, 0.3);
             margin: 20px 0;
         }
-        .section-white { background-color: #fff; }
-        
-        .section-lightblue { background-color: rgb(217, 239, 255); }
+
+        .section-white {
+            background-color: #ffffff;
+            padding: 20px 30px;
+            box-shadow: -5px 0 10px rgba(0, 0, 0, 0.3), 5px 0 10px rgba(0, 0, 0, 0.3);
+            margin: 20px 0;
+        }
 
         html {
             scroll-behavior: smooth;
@@ -311,7 +316,6 @@
 
     <footer role="contentinfo">
         <p>&copy; {{ date('Y') }} Griya Damai Kita - Rental Mobil Terpercaya. All rights reserved.</p>
-        <p>Layanan rental mobil terbaik di Jakarta dengan harga kompetitif</p>
     </footer>
 
     <!-- Google tag (gtag.js) -->
